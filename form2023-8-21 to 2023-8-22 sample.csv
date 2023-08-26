@@ -1,0 +1,222 @@
+,date,region,league,team_a,team_b,team_a_score,team_b_score,status,penalties
+0,2023-08-21,Peru,Liga 1 Clausura,Cienciano,Alianza Lima,0,0,FT,NA
+1,2023-08-21,Peru,Liga 1 Clausura,Sport Boys,Atletico Grau,1,1,FT,NA
+2,2023-08-21,Peru,Liga 1 Clausura,Utc,Deportivo Binacional,3,2,FT,NA
+3,2023-08-21,Israel,Toto League Cup,Hapoel Petah Tikva,Maccabi Bnei Raina,2,1,FT,NA
+4,2023-08-21,England,Premier League 2,West Brom (u21),Blackburn (u23),3,3,FT,NA
+5,2023-08-21,England,Premier League 2,Stoke City (u21),Wolves (21),2,1,FT,NA
+6,2023-08-21,Spain,Laliga2,Villarreal B,CD Eldense,3,1,FT,NA
+7,2023-08-21,Spain,Laliga2,Huesca,Tenerife,0,2,FT,NA
+8,2023-08-21,Denmark,Superligaen,Viborg,Vejle,2,1,FT,NA
+9,2023-08-21,Norway,3. Divisjon Avd. 5,Rosenborg 2,Kolstad,5,0,FT,NA
+10,2023-08-21,Sweden,Ettan Soedra,Norrby If,Ahlafors If,4,1,FT,NA
+11,2023-08-21,Sweden,2. Division Soedra Goetaland,Kristianstad FC,IFK Malmo Fk,3,3,FT,NA
+12,2023-08-21,Norway,3. Divisjon Avd. 4,Donn,Fredrikstad 2,1,0,FT,NA
+13,2023-08-21,Norway,3. Divisjon Avd. 4,Sandefjord 2,Halsen,3,2,FT,NA
+14,2023-08-21,Norway,3. Divisjon Avd. 4,Start 2,Randesund,4,0,FT,NA
+15,2023-08-21,Norway,3. Divisjon Avd. 4,Odd Ballklubb 2,Eik-toensberg,2,3,FT,NA
+16,2023-08-21,Bulgaria,First Professional League,CSKA 1948,Etar Veliko Tarnovo,1,0,FT,NA
+17,2023-08-21,Poland,Ekstraklasa,Cracovia Krakow,Piast Gliwice,1,1,FT,NA
+18,2023-08-21,Faroe Islands,Premier League,B36 Torshavn,B68 Toftir,2,0,FT,NA
+19,2023-08-21,Cyprus,1. Division,Aris Limassol,A. E. Kition Larnaca,2,0,FT,NA
+20,2023-08-21,Cyprus,1. Division,Doxa Katokopias,A.e.l.,0,1,FT,NA
+21,2023-08-21,Cyprus,1. Division,Omonia,Nea Salamis,4,0,FT,NA
+22,2023-08-21,Spain,Laliga,Alaves,Sevilla,4,3,FT,NA
+23,2023-08-21,Spain,Laliga,Granada Cf,Rayo Vallecano,0,2,FT,NA
+24,2023-08-21,Italy,Serie A,Torino,Cagliari,0,0,FT,NA
+25,2023-08-21,Italy,Serie A,Bologna,ACMilan,0,2,FT,NA
+26,2023-08-21,France,National,Le Mans,Dijon,1,1,FT,NA
+27,2023-08-21,Sweden,Allsvenskan,IFK Norrkoping,Aik,3,1,FT,NA
+28,2023-08-21,Portugal,Liga Portugal 2,Torreense,Nacional,3,0,FT,NA
+29,2023-08-21,Portugal,Liga Portugal 2,Leixoes,Santa Clara,0,0,FT,NA
+30,2023-08-21,Norway,2. Divisjon Avd. 1,Notodden,Aalesund 2,1,0,FT,NA
+31,2023-08-21,Norway,2. Divisjon Avd. 1,Valerenga 2,Lyn,1,2,FT,NA
+32,2023-08-21,Paraguay,Division Intermedia,Sportivo Carapegua,24 de Setiembre,2,0,FT,NA
+33,2023-08-21,Iceland,Besta Deildin,Stjarnan,Kr Reykjavik,3,1,FT,NA
+34,2023-08-21,Portugal,Liga Portugal,Famalicao,Moreirense,0,0,FT,NA
+35,2023-08-21,England,Premier League,Crystal Palace,Arsenal,0,1,FT,NA
+36,2023-08-21,Republic of Ireland,Fa Cup,Cork City,Waterford United,3,0,FT,NA
+37,2023-08-21,Republic of Ireland,Fa Cup,Ucd,Galway United,1,5,FT,NA
+38,2023-08-21,England,Northern Premier Division,Bradford Park Avenue,Morpeth Town Afc,2,0,FT,NA
+39,2023-08-21,France,Ligue 2,Ajaccio,Bordeaux,0,0,FT,NA
+40,2023-08-21,Argentina,Primera B Metropolitana Clausura,Dock Sud,Acassuso,1,1,FT,NA
+41,2023-08-21,Argentina,Primera B Metropolitana Clausura,Los Andes,Argentino de Quilmes,1,0,FT,NA
+42,2023-08-21,Iceland,1. Deild,Aegir,Grotta,2,2,FT,NA
+43,2023-08-21,Iceland,1. Deild,Fjolnir,Grindavik,5,1,FT,NA
+44,2023-08-21,Iceland,1. Deild,Kordrengir,Grotta,NA,NA,NA,NA
+45,2023-08-21,Argentina,Primera C Clausura,Deportivo Espanol,Real Pilar,0,1,FT,NA
+46,2023-08-21,Argentina,Primera C Clausura,Leandro N. Alem,Excursionistas,0,0,FT,NA
+47,2023-08-21,Argentina,Primera C Clausura,Victoriano Arenas,Deportivo Laferrere,0,1,FT,NA
+48,2023-08-21,Argentina,Primera C Clausura,Midland,Central Cordoba Rosario,1,1,FT,NA
+49,2023-08-21,Hungary,Nb I,Debreceni Vsc,Kisvarda FC,4,1,FT,NA
+50,2023-08-21,Netherlands,Eerste Divisie,Jong Ajax,De Graafschap,1,2,FT,NA
+51,2023-08-21,Netherlands,Eerste Divisie,Jong Utrecht,Groningen,1,0,FT,NA
+52,2023-08-21,Serbia,Prva Liga,Dubocica,Proleter Novi Sad,2,1,FT,NA
+53,2023-08-21,Turkey,1. Lig,Eyupspor,Kocaelispor,2,0,FT,NA
+54,2023-08-21,Argentina,Primera Nacional Zona A,Defensores Unidos,Temperley,1,1,FT,NA
+55,2023-08-21,Argentina,Primera Nacional Zona A,Flandria,Nueva Chicago,0,1,FT,NA
+56,2023-08-21,Argentina,Primera Nacional Zona A,San Martin S.j.,San Martin Tucuman,0,0,FT,NA
+57,2023-08-21,Turkey,Super Lig,Ankaragucu,Adana Demirspor,1,1,FT,NA
+58,2023-08-21,Turkey,Super Lig,Samsunspor,Fenerbahce,0,2,FT,NA
+59,2023-08-21,Poland,I Liga,Znicz Pruszkow,Katowice,0,2,FT,NA
+60,2023-08-21,Norway,3. Divisjon Avd. 1,Grorud 2,Stabaek 2,0,2,FT,NA
+61,2023-08-21,Mexico,Liga Mx Apertura,Cruz Azul,Santos Laguna,2,2,FT,NA
+62,2023-08-21,Mexico,Liga Mx Apertura,Club Queretaro,Pachuca,1,1,FT,NA
+63,2023-08-21,Mexico,Liga Mx Apertura,Club America,Atlas,1,1,FT,NA
+64,2023-08-21,Mexico,Liga Mx Apertura,Necaxa,U.a.n.l. - Tigres,0,3,FT,NA
+65,2023-08-21,USA,Nisa,Albion San Diego,Michigan Stars,NA,NA,NA,NA
+66,2023-08-21,USA,Nisa,Los Angeles Force,Gold Star FC Detroit,NA,NA,NA,NA
+67,2023-08-21,India,Durand Cup,Kerala Blasters,Indian Air Force,5,0,FT,NA
+68,2023-08-21,India,Durand Cup,Rajasthan United,Army Red,0,0,FT,NA
+69,2023-08-21,Mexico,Liga Mx Femenil Apertura Women,Club Tijuana (w),Toluca (w),3,0,FT,NA
+70,2023-08-21,Mexico,Liga Mx Femenil Apertura Women,Cruz Azul (w),Guadalajara-chivas (w),1,5,FT,NA
+71,2023-08-21,Chile,Primera B,Iquique,Deportes Recoleta,2,1,FT,NA
+72,2023-08-21,Costa Rica,Primera Division Apertura,Municipal Liberia,Municipal Grecia,1,1,FT,NA
+73,2023-08-21,Costa Rica,Primera Division Apertura,Puntarenas FC,CS Herediano,1,1,FT,NA
+74,2023-08-21,Honduras,Liga Nacional-apertura,CD Olimpia,Olancho FC,NA,NA,NA,NA
+75,2023-08-21,Honduras,Liga Nacional-apertura,Vida,CD Motagua,3,3,FT,NA
+76,2023-08-21,Argentina,Copa De La Liga Profesional,Argentinos Jrs,River Plate,3,2,FT,NA
+77,2023-08-21,Argentina,Copa De La Liga Profesional,Huracan,Banfield,2,0,FT,NA
+78,2023-08-21,Bolivia,Primera Division,Guabira,The Strongest,NA,NA,NA,NA
+79,2023-08-21,Norway,3. Divisjon Avd. 2,Raufoss 2,Hoedd 2,3,3,FT,NA
+80,2023-08-21,USA,Major League Soccer,Columbus Crew,FC Cincinnati,3,0,FT,NA
+81,2023-08-21,USA,Major League Soccer,Inter Miami,Charlotte,NA,NA,NA,NA
+82,2023-08-21,USA,Major League Soccer,New York City FC,Minnesota United FC,0,2,FT,NA
+83,2023-08-21,USA,Major League Soccer,New York Red Bulls,Dc United,1,0,FT,NA
+84,2023-08-21,USA,Major League Soccer,Toronto FC,Montreal Impact,2,3,FT,NA
+85,2023-08-21,USA,Major League Soccer,Chicago Fire,Orlando City,1,3,FT,NA
+86,2023-08-21,USA,Major League Soccer,Houston Dynamo,Portland Timbers,5,0,FT,NA
+87,2023-08-21,USA,Major League Soccer,St. Louis City,Austin FC,6,3,FT,NA
+88,2023-08-21,USA,Major League Soccer,Seattle Sounders,Atlanta United FC,0,2,FT,NA
+89,2023-08-21,USA,Major League Soccer,Vancouver Whitecaps,San Jose Earthquakes,0,1,FT,NA
+90,2023-08-21,Paraguay,Division Profesional-clausura,Club Nacional,Club General B. Caballero,2,3,FT,NA
+91,2023-08-21,Venezuela,Primera Division,Portuguesa FC,Rayo Zuliano,1,2,FT,NA
+92,2023-08-21,Colombia,Primera A Clausura,Independiente Medellin,Alianza Petrolera,2,1,FT,NA
+93,2023-08-21,Colombia,Primera A Clausura,Huila,Atletico Nacional,0,1,FT,NA
+94,2023-08-21,Colombia,Primera A Clausura,Bucaramanga,Rionegro FC,1,1,FT,NA
+95,2023-08-21,Mexico,Liga Premier A,Real Apodaca FC,Leones Negros Udg II,2,2,FT,FT Real Apodaca FC win 5-4 on penalties
+96,2023-08-21,USA,Nwsl Women,Orlando Pride (w),Chicago Red Stars(w),5,0,FT,NA
+97,2023-08-21,USA,Nwsl Women,Portland Thorns (w),North Carolina Courage (w),2,1,FT,NA
+98,2023-08-21,South Korea,K-league 2,Seongnam FC,Bucheon FC 1995,2,2,FT,NA
+99,2023-08-21,South Korea,K-league 2,Gyeongnam FC,Cheonan City,1,1,FT,NA
+100,2023-08-21,Thailand,Thai League,Chonburi FC,Khonkaen United,0,0,FT,NA
+101,2023-08-21,Estonia,Esiliiga,Flora Tallinn II,Tabasalu,7,3,FT,NA
+102,2023-08-21,Kosovo,Superliga,Gjilani,Prishtina,0,0,FT,NA
+103,2023-08-21,Romania,Superliga,Sepsi Osk Sfantu Gheorghe,Afc Hermannstadt,1,1,FT,NA
+104,2023-08-21,Romania,Superliga,Universitatea Cluj,Cfr 1907 Cluj,3,4,FT,NA
+105,2023-08-21,Bosnia And Herzegovina,1. Division Rs,Modrica,Radnik Bijeljina,1,2,FT,NA
+106,2023-08-21,Croatia,Prva Nl,Jarun,Orijent Rijeka,4,2,FT,NA
+107,2023-08-21,Finland,Kakkonen-lohko B,Honka/a,Atlantis FC,0,2,FT,NA
+108,2023-08-21,Bulgaria,Second Professional League,Ludogorets II,Chernomorets Balchik,1,0,FT,NA
+109,2023-08-21,Finland,Veikkausliiga,Ktp,Haka,1,2,FT,NA
+110,2023-08-21,Lithuania,1. Division,Zalgiris Kaunas B,Vilnius Bfa,2,0,FT,NA
+111,2023-08-21,Lithuania,1. Division,Zalgiris Vilnius B,Silas,6,0,FT,NA
+112,2023-08-21,Tanzania,Premier League,Mashujaa,Geita Gold FC,0,0,FT,NA
+113,2023-08-21,Bosnia And Herzegovina,Premier League,Sloga Simin Han,Sarajevo,1,2,FT,NA
+114,2023-08-21,North Macedonia,Prva Liga,Struga,Akademija Pandev,1,2,FT,NA
+115,2023-08-21,Norway,2. Divisjon Avd. 2,Stromsgodset 2,Stjordals Blink,0,3,FT,NA
+116,2023-08-21,Norway,2. Divisjon Avd. 2,Levanger,Brann 2,5,0,FT,NA
+117,2023-08-21,Norway,3. Divisjon Avd. 6,Mjolner,Skeid 2,3,3,FT,NA
+118,2023-08-21,Norway,3. Divisjon Avd. 6,Asker,Tromso 2,5,0,FT,NA
+119,2023-08-21,Norway,3. Divisjon Avd. 6,Follo,Sarpsborg 08 2,2,1,FT,NA
+120,2023-08-21,Norway,3. Divisjon Avd. 6,Nordstrand,Kfum 2,5,0,FT,NA
+121,2023-08-21,Russia,First League,Kamaz Naberezhnye Chelny,Arsenal Tula,0,0,FT,NA
+122,2023-08-21,Russia,First League,FC Torpedo Moscow,Neftekhimik,2,1,FT,NA
+123,2023-08-21,Uzbekistan,Superliga,Andijan,Olympic,2,1,FT,NA
+124,2023-08-21,Belarus,1. Division,Shakhter Pietrykaw,FC Baranovichi,1,1,FT,NA
+125,2023-08-21,Belarus,1. Division,Bumprom Gomel,FC Lida,2,0,FT,NA
+126,2023-08-21,Colombia,Primera B Clausura,Tigres FC,Orsomarso,1,3,FT,NA
+127,2023-08-22,Brazil,Serie C,America-rn,Aparecidense,0,0,FT,NA
+128,2023-08-22,Brazil,Serie C,Sao Bernardo,Ypiranga-rs,1,0,FT,NA
+129,2023-08-22,England,Football League Trophy,Swindon Town,Arsenal (u21),2,2,FT,FT Arsenal (u21) win 4-5 on penalties
+130,2023-08-22,England,Football League Trophy,Walsall,Brighton (u21),2,3,FT,NA
+131,2023-08-22,England,Football League Trophy,Stockport,Manchester United (u21),1,1,FT,FT Manchester United (u21) win 3-5 on penalties
+132,2023-08-22,England,Football League Trophy,Portsmouth,Fulham (u21),3,3,FT,FT Portsmouth win 5-4 on penalties
+133,2023-08-22,Austria,2. Liga,Horn,FC Liefering,2,1,FT,NA
+134,2023-08-22,Germany,Oberliga Bayern North,Atsv Erlangen,Fortuna Regensburg,3,1,FT,NA
+135,2023-08-22,Germany,3. Liga,Dynamo Dresden,Waldhof Mannheim,2,1,FT,NA
+136,2023-08-22,Germany,3. Liga,Hallescher FC,Duisburg,1,1,FT,NA
+137,2023-08-22,Germany,3. Liga,Preussen Munster,FC Ingolstadt 04,3,1,FT,NA
+138,2023-08-22,Germany,3. Liga,Ssv Ulm 1846,Arminia Bielefeld,1,0,FT,NA
+139,2023-08-22,Germany,3. Liga,1860 Munich,Lubeck,1,2,FT,NA
+140,2023-08-22,Denmark,1. Division,FC Fredericia,ACHorsens,2,0,FT,NA
+141,2023-08-22,Denmark,1. Division,Naestved,B93 Copenhagen,0,1,FT,NA
+142,2023-08-22,Belarus,Premier League,Neman,FC Gomel,2,2,FT,NA
+143,2023-08-22,Denmark,Denmark Series,Horsens Fs,Hedensted,1,1,FT,NA
+144,2023-08-22,South Africa,Premier Soccer League,Orlando Pirates,Moroka Swallows,NA,NA,NA,NA
+145,2023-08-22,Switzerland,1. Liga,FC Gossau,Hongg,1,2,FT,NA
+146,2023-08-22,Switzerland,1. Liga,Thun II,Munsingen,4,0,FT,NA
+147,2023-08-22,Peru,Liga 2,U. San Martin,Ayacucho FC,2,1,FT,NA
+148,2023-08-22,Peru,Liga 2,Comerciantes FC,Deportivo Llacubamba,2,0,FT,NA
+149,2023-08-22,Peru,Liga 2,Molinos El Pirata,Alfonso Ugarte de Puno,4,1,FT,NA
+150,2023-08-22,Sweden,Svenska Cupen,Katrineholms Sk,Degerfors If,0,3,FT,NA
+151,2023-08-22,Sweden,Svenska Cupen,Hassleholms If,Gais,2,3,FT,NA
+152,2023-08-22,Sweden,Svenska Cupen,IFK Berga,IFK Varnamo,1,2,FT,NA
+153,2023-08-22,Sweden,Svenska Cupen,IFK Lulea,Afc Eskilstuna,2,1,FT,NA
+154,2023-08-22,Sweden,Svenska Cupen,Jonsereds If,Hacken,NA,NA,NA,NA
+155,2023-08-22,Sweden,Svenska Cupen,Orebro Syrianska,Vasteras Fk,0,3,FT,NA
+156,2023-08-22,Sweden,Svenska Cupen,Rosengard,Helsingborg,0,3,FT,NA
+157,2023-08-22,Sweden,Svenska Cupen,Sollentuna Fk,Gefle If,0,1,FT,NA
+158,2023-08-22,England,Northern Premier Division,Basford United,Stafford Rangers,1,2,FT,NA
+159,2023-08-22,England,Northern Premier Division,United Of Manchester,Ilkeston Town,1,0,FT,NA
+160,2023-08-22,England,Northern Premier Division,Gainsborough,Guiseley Afc,4,0,FT,NA
+161,2023-08-22,England,Northern Premier Division,Hyde FC,Marine,2,1,FT,NA
+162,2023-08-22,England,Northern Premier Division,Lancaster,Macclesfield,3,0,FT,NA
+163,2023-08-22,England,Northern Premier Division,Marske United,Bamber Bridge,3,1,FT,NA
+164,2023-08-22,England,Northern Premier Division,Matlock Town,Atherton Collieries Afc,3,0,FT,NA
+165,2023-08-22,England,Northern Premier Division,Warrington Rylands,Ashton United,2,0,FT,NA
+166,2023-08-22,England,Northern Premier Division,Whitby Town,Worksop,2,4,FT,NA
+167,2023-08-22,England,Northern Premier Division,Workington,Radcliffe FC,1,4,FT,NA
+168,2023-08-22,Scotland,Lowland League,Caledonian Braves,Civil Service Strollers,0,1,FT,NA
+169,2023-08-22,Scotland,Lowland League,East Kilbride,Celtic B,2,1,FT,NA
+170,2023-08-22,Scotland,Lowland League,Edinburgh University,Berwick,1,3,FT,NA
+171,2023-08-22,Scotland,Lowland League,Hearts B,Tranent Juniors,3,0,FT,NA
+172,2023-08-22,Scotland,Lowland League,Linlithgow Rose,Gala Fairydean Rovers,5,0,FT,NA
+173,2023-08-22,Northern Ireland,Premiership,Crusaders FC,Carrick Rangers,9,0,FT,NA
+174,2023-08-22,Northern Ireland,Premiership,Linfield,Cliftonville FC,2,1,FT,NA
+175,2023-08-22,Scotland,League One,Falkirk,Stirling Albion,3,0,FT,NA
+176,2023-08-22,Europe,UEFA Champions League,Antwerp,Aek Athens,1,0,FT,NA
+177,2023-08-22,Europe,UEFA Champions League,Rakow Czestochowa,FC Copenhagen,0,1,FT,NA
+178,2023-08-22,Europe,UEFA Champions League,Rangers,Psv,2,2,FT,NA
+179,2023-08-22,Colombia,Primera B Clausura,Cortulua,Barranquilla,1,1,FT,NA
+180,2023-08-22,South America,Copa Libertadores,Bolivar,Internacional,0,1,FT,NA
+181,2023-08-22,North & Central America,Concacaf League,Independiente FC,Real Esteli,2,1,FT,NA
+182,2023-08-22,Germany,Regionalliga Bayern,Schalding-heining,FC Schweinfurt 05,2,1,FT,NA
+183,2023-08-22,Romania,Liga Ii,Chindia Targoviste,Gloria Buzau,1,1,FT,NA
+184,2023-08-22,Peru,Liga 1 Clausura,Cesar Vallejo,Asociacion Deportiva Tarma,1,1,FT,NA
+185,2023-08-22,Argentina,Primera Nacional Zona A,Gimnasia M.,Estudiantes R.c.,1,0,FT,NA
+186,2023-08-22,Argentina,Primera Nacional Zona A,Atletico Guemes,Almirante Brown,0,0,FT,NA
+187,2023-08-22,Brazil,Campeonato Brasileiro Serie A,Goias,Atletico Paranaense,1,1,FT,NA
+188,2023-08-22,USA,Mls Next Pro,New York Red Bulls 2,Atlanta United 2,4,2,FT,NA
+189,2023-08-22,Paraguay,Division Intermedia,Rubio Nu,Fernando de La Mora,1,0,FT,NA
+190,2023-08-22,Mexico,Liga Premier A,Sporting Canamy,CD Zap,NA,NA,NA,NA
+191,2023-08-22,Mexico,Liga Premier A,Inter Playa Del Carmen,Yalmakan,2,0,FT,NA
+192,2023-08-22,Paraguay,Division Profesional-clausura,Tacuary,Resistencia,1,0,FT,NA
+193,2023-08-22,Mexico,Liga Mx Femenil Apertura Women,U.n.a.m. - Pumas (w),Mazatlan FC,4,1,FT,NA
+194,2023-08-22,Mexico,Liga Mx Femenil Apertura Women,Necaxa (w),Club Queretaro (w),0,2,FT,NA
+195,2023-08-22,Mexico,Liga Mx Femenil Apertura Women,Leon (w),Club America (w),2,3,FT,NA
+196,2023-08-22,Mexico,Liga Mx Femenil Apertura Women,Monterrey (w),FC Juarez (w),2,2,FT,NA
+197,2023-08-22,Mexico,Liga Mx Femenil Apertura Women,Santos Laguna (w),U.a.n.l. - Tigres (w),0,7,FT,NA
+198,2023-08-22,Colombia,Primera A Clausura,Deportivo Cali,Deportes Tolima,NA,NA,NA,NA
+199,2023-08-22,Colombia,Primera A Clausura,Millonarios,Once Caldas,2,1,FT,NA
+200,2023-08-22,Argentina,Copa De La Liga Profesional,Newells Old Boys,Central Cordoba,2,0,FT,NA
+201,2023-08-22,Bolivia,Primera Division,Real Tomayapo,Blooming,0,0,FT,NA
+202,2023-08-22,Iran,Persian Gulf Pro League,Mes Rafsanjan,Shams Azar Qazvin,0,3,FT,NA
+203,2023-08-22,India,Durand Cup,Hyderabad FC,Tribhuwan Army Club,3,0,FT,NA
+204,2023-08-22,India,Durand Cup,Bengaluru FC,Gokulam Kerala,2,0,FT,NA
+205,2023-08-22,Asia,AFC Champions League,Incheon United,Hai Phong,3,1,AET,NA
+206,2023-08-22,Asia,AFC Champions League,Urawa Red Diamonds,Lee Man FC,3,0,FT,NA
+207,2023-08-22,Asia,AFC Champions League,Shanghai Sipg FC,Bangkok Glass,2,3,FT,NA
+208,2023-08-22,Asia,AFC Champions League,Hangzhou Greentown,Port FC,1,0,FT,NA
+209,2023-08-22,Asia,AFC Champions League,Al wakrah,Navbahor Namangan,0,0,FT,NA
+210,2023-08-22,Asia,AFC Champions League,Tractor Sazi,Sharjah FC,1,3,FT,NA
+211,2023-08-22,Asia,AFC Champions League,Al nassr Riyadh,Shabab Al ahli Dubai,4,2,FT,NA
+212,2023-08-22,Asia,AFC Champions League,Al arabi Sc,Olmaliq,0,1,FT,NA
+213,2023-08-22,Denmark,Ligaen U19,Aarhus (u19),FC Midtjylland (u19),4,0,FT,NA
+214,2023-08-22,Malaysia,Super Liga,Penang,Kedah,1,2,FT,NA
+215,2023-08-22,Tanzania,Premier League,Singida Big Stars,Tanzania Prisons,0,0,FT,NA
+216,2023-08-22,Bulgaria,Second Professional League,CSKA 1948 II,Strumska Slava,0,2,FT,NA
+217,2023-08-22,Bulgaria,Second Professional League,Yantra Gabrovo,Septemvri Sofia,3,2,FT,NA
+218,2023-08-22,Denmark,Ligaen U17,Aarhus (u17),FC Midtjylland (u17),1,3,FT,NA
+219,2023-08-22,Finland,Ykkonen,Jjk,Eif,0,2,FT,NA
+220,2023-08-22,Brazil,Serie B,Mirassol,Juventude,0,1,FT,NA
